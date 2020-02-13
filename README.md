@@ -7,6 +7,7 @@ A group for studying algorithms. The two main text books are:
 ## 
 
 ## Resources
+- [Algorithms in Javascript](https://github.com/ohdonghoon1128/algorithms): Sedgewick's Algorithms ported the JavaScript
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 - https://walkccc.github.io/CLRS/
 - https://github.com/garrettheaver/sedgewick
